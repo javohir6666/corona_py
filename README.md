@@ -1,2 +1,2 @@
 # corona_py
-**creating a visual coronavirus using a turtle**
+#creating a visual coronavirus using a turtle
